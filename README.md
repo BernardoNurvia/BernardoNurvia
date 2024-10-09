@@ -1,5 +1,6 @@
-## Hi there 👋
+![Futuristic Digital Background LinkedIn Banner (1)](https://github.com/user-attachments/assets/e91c76ce-9764-466e-851d-07bc4e320c13)
 
+Desarrollador Full Stack con experiencia en la creación de aplicaciones web completas. Con habilidades en desarrollo frontend y backend, y un sólido conocimiento en tecnologías modernas. Apasionado por la programación y siempre en busca de aprender y aplicar nuevas tecnologías.
 <!--
 **BernardoNurvia/BernardoNurvia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
